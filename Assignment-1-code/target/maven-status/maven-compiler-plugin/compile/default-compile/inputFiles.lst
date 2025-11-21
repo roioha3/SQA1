@@ -1,0 +1,14 @@
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\Book.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\errors\BookAlreadyBorrowedException.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\errors\BookNotBorrowedException.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\errors\BookNotFoundException.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\errors\NoReviewsFoundException.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\errors\NotificationException.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\errors\ReviewException.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\errors\ReviewServiceUnavailableException.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\errors\UserNotRegisteredException.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\Library.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\services\DatabaseService.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\services\NotificationService.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\services\ReviewService.java
+C:\Users\tomyl\Documents\software_engineering\semester_7\SQA\SQA1\Assignment-1-code\src\main\java\ac\il\bgu\qa\User.java
